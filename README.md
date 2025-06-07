@@ -131,7 +131,3 @@ To ensure a successful and collaborative project experience, please adhere to th
 * **Modularity:** Structure your code into reusable modules or functions to enhance readability and maintainability.
 * **Documentation:** Clearly document each step and any assumptions made to ensure project understanding.
 * **Model Iteration:** Regularly iterate on your model based on evaluation results and document the impact of each iteration on performance metrics.
-3. **Modeling**: Baseline models → Advanced models (XGBoost, etc.)
-4. **Evaluation**: Macro-F1, Precision, Recall metrics
-
-## Project Structure# ML-Security
